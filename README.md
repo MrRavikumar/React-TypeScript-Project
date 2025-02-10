@@ -70,7 +70,7 @@ Or using yarn:
 yarn start
 ```
 
-The application will be accessible at `http://localhost:3000`.
+The application will be accessible at `https://mrravikumar.github.io/`.
 
 ## Project Structure
 
