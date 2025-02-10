@@ -13,7 +13,6 @@ This project is an advanced note-taking application built with React and TypeScr
 - [Technologies Used](#technologies-used)
 - [GitHub Pages](#github-pages)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -126,7 +125,3 @@ Contributions are welcome! Please follow these steps:
 3. Commit your changes (`git commit -m 'Add YourFeature'`).
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a Pull Request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
