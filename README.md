@@ -5,13 +5,13 @@ This project is an advanced note-taking application built with React and TypeScr
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Running the Application](#running-the-application)
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
+- [GitHub Pages](#github-pages)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -70,7 +70,7 @@ Or using yarn:
 yarn start
 ```
 
-The application will be accessible at `https://mrravikumar.github.io/`.
+The application will be accessible at `http://localhost:3000`.
 
 ## Project Structure
 
@@ -112,6 +112,10 @@ The application will be accessible at `https://mrravikumar.github.io/`.
 - **React Router**: Declarative routing for React applications.
 - **React Markdown**: Render markdown in React components.
 - **Styled Components**: CSS-in-JS library for styling components.
+
+## GitHub Pages
+
+This project is hosted on GitHub Pages. You can view it live here: [GitHub Pages Link](https://mrravikumar.github.io/)
 
 ## Contributing
 
