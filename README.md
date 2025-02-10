@@ -70,7 +70,7 @@ Or using yarn:
 yarn start
 ```
 
-The application will be accessible at `https://mrravikumar.github.io/`.
+The application will be accessible at `https://mrravikumar.github.io/React-TypeScript-Project/`.
 
 ## Project Structure
 
@@ -115,7 +115,7 @@ The application will be accessible at `https://mrravikumar.github.io/`.
 
 ## GitHub Pages
 
-This project is hosted on GitHub Pages. You can view it live here: [GitHub Pages Link](https://mrravikumar.github.io/)
+This project is hosted on GitHub Pages. You can view it live here: [GitHub Pages Link](https://mrravikumar.github.io/React-TypeScript-Project/)
 
 ## Contributing
 
